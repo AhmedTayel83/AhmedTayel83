@@ -1,5 +1,8 @@
 div align="center" width="50">
 
+<!-- اسمك المتحرك -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&color=000000&center=true&vCenter=true&width=500&lines=I'm+Ahmed+Tayel" alt="I'm Ahmed Tayel" /> <br>
+
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
@@ -31,7 +34,7 @@ div align="center" width="50">
 ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
-python
+```python
 # tools_I_use organized
 
 class About(AhmedTayel): 
@@ -53,16 +56,13 @@ class About(AhmedTayel):
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />   Find me on Telegram: @ahmed_tayel<br>
 
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />    Fun fact: The Queue always comes before the Stack… at least in the alphabet 😄.<br>
-
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />    Fun fact: The Queue always comes before the Stack… at least in the alphabet 😄.<br>
 
 <div align="center" >
 <a  href="https://github.com/ahmed-tayel"><img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%"></a><details>
-  <summary>More stats</summary><img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" ></details><hr></hr>Code Cycle<br>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Debugging mode!"/>
+  <summary>More stats</summary><img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" ></details><hr></hr>Code Cycle<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Debugging mode!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
